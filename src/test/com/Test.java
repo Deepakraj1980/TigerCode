@@ -9,7 +9,7 @@ System.out.println("This is test");
 	}
 	
 	public void test(){
-		this
+		System.out.println("This is not good");
 	}
 	
 	public String name;
