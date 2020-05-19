@@ -10,6 +10,7 @@ System.out.println("This is test");
 	
 	public void test(){
 		System.out.println("This is not good and best");
+
 	}
 	
 	public String name;
